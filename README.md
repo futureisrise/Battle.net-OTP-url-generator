@@ -1,6 +1,10 @@
 # Battle.net OTP-url generator
 
-## How to get BA-tassadar
+## How to get BA-tassadar token
+1. Open Developer tools in browser on Network section
+2. Open http://account.battle.net
+3. Sign in #*NOTE: You will receive this cookie only once when you sign in. If you signed in, log out and repeat*
+4. Ctrl+F in developer tools and search - BA-tassadar=
 <img src="https://github.com/user-attachments/assets/8068f153-d024-4a28-9be7-ec8dc028b702" width="500px">
 
 ## How to get Serial Key and Recovery code
