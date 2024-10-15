@@ -24,8 +24,10 @@ As result you will get the next OTP-url
 otpauth://totp/Battle.net?secret=YOUSECRETLINE&digits=8
 ```
 
-## How to use given url (1Password example)
-1. Add One-time password field into your record
-<img src="https://github.com/user-attachments/assets/4a194dc2-2201-4c87-bc90-c798c68583af" width="500px">
-2. Insert your OTP-url given on previous step into appeared field.
-<img src="https://github.com/user-attachments/assets/b3e8c05d-0679-4c3c-86dd-d3342ff2d6e9" width="500px">
+## How to use generated url (1Password example)
+1. Add One-time password field into your record  
+</br><img src="https://github.com/user-attachments/assets/4a194dc2-2201-4c87-bc90-c798c68583af" width="500px"></br>
+  
+2. Insert your OTP-url given on previous step into appeared field.  
+</br><img src="https://github.com/user-attachments/assets/b3e8c05d-0679-4c3c-86dd-d3342ff2d6e9" width="500px"></br>
+  
