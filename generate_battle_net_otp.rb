@@ -47,8 +47,8 @@ end
 
 def fetch_device_secret(access_token, serial, restoreCode)
   body = {
-    serial:,
-    restoreCode:
+    serial:serial,
+    restoreCode:restoreCode
   }
   url = URI("https://authenticator-rest-api.bnet-identity.blizzard.net/v1/authenticator/device")
 
